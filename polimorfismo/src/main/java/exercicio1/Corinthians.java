@@ -11,6 +11,7 @@ package exercicio1;
  */
 // extends marca relação de herança
 public class Corinthians extends Torcedor{
+    // cabe o uso do Override
     public void torcer(){
         System.out.println("Timão eoo!");
     }

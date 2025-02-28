@@ -1,0 +1,13 @@
+# Ignorar pasta target
+target/
+
+# Ignorar arquivos de IDE
+.idea/
+*.iml
+
+# Ignorar arquivos de compilação
+*.class
+*.log
+
+# Ignorar arquivos de configuração local
+*.properties

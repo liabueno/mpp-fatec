@@ -11,7 +11,7 @@ package exercicio4_v1;
  */
 public class PizzaNapolitana {
     public void preparacao(){
-        System.out.println("molho, presunto, queijo, tomte, oregano");
+        System.out.println("molho, presunto, queijo, tomate, oregano");
     }
 
     public void assamento(){

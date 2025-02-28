@@ -12,7 +12,7 @@ package exercicio2;
 // implements marca interface, não está estendendo está obrigando os métodos
 public class Corinthians implements Torcedor{
     @Override
-    // override garante esteja sobrescrevendo um método e não criando um novo
+    // override garante que esteja sobrescrevendo um método e não criando um novo
     public void torcer(){
         System.out.println("Timão eooo!");
     }

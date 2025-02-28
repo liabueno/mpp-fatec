@@ -10,6 +10,7 @@ package exercicio1;
  * @author julia
  */
 public class Palmeiras extends Torcedor{
+    // cabe o uso do Override
     public void torcer(){
         System.out.println("Porcoo!");
     }
