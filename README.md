@@ -1,6 +1,6 @@
 # Lista de Exercícios em Java
 
-Para a resolução os exercícios utilizam conceitos de **programação orientada a objetos (POO)**, como **interfaces**, **polimorfismo** e **encapsulamento**, com temáticas de torcida (exercícios 1 e 2) e pizzaria (exercícios 3 a 6).
+Para a resolução os exercícios (pasta polimorfismo) utilizam conceitos de **programação orientada a objetos (POO)**, como **interfaces**, **polimorfismo** e **encapsulamento**, com temáticas de torcida (exercícios 1 e 2) e pizzaria (exercícios 3 a 6).
 
 <div>
   <img src="https://th.bing.com/th/id/R.a12054090c48bb643c031d06261d6637?rik=jIcUxCqMCloLpA&pid=ImgRaw&r=0" alt="Imagem da torcida do Corinthians" width="30%"" />
